@@ -147,7 +147,7 @@ The tool uses `gr.themes.Soft()` as the default theme. To use another theme, upd
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.text) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
