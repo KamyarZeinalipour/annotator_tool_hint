@@ -49,7 +49,7 @@ The script is executed with the following required arguments:
 ### Example
 Run the script:
 ```bash
-python annotator_tool.py main --current_index=0 --annotator_name="John Doe" --examples_batch_folder="data/sample_batch.csv"
+python main.py --current_index=0 --annotator_name="John Doe" --examples_batch_folder="data/sample_batch.csv"
 ```
 
 ### Inputs in Dataset File
