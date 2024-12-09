@@ -144,6 +144,11 @@ The tool's appearance can be customized by modifying the `css` string in the cod
 The tool uses `gr.themes.Soft()` as the default theme. To use another theme, update the `Blocks` initialization.
 
 ---
+## Contact
+
+For any questions or issues, please contact Kamyar Zeinalipour at [Kzeinalipour@umass.edu].
+
+---
 
 ## License
 
