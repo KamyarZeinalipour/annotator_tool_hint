@@ -30,9 +30,39 @@ This project is a **Python-based annotation tool** for processing datasets using
   - `gradio`
   - `fire`
 
-Install dependencies using:
+## Installation
+
+### Clone the Repository
+
 ```bash
-pip install pandas gradio fire
+git clone https://github.com/KamyarZeinalipour/annotator_tool_hint.git
+cd annotator_tool_hint
+```
+
+### Creating a Virtual Environment
+
+It is recommended to use a virtual environment to manage the dependencies for this project.
+
+#### On macOS and Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+#### On Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### Installing Required Packages
+
+Install the required Python packages from the `requirements.txt` file using `pip`:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
